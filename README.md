@@ -33,6 +33,4 @@ the project will be visible in the browser on the url http://localhost:3000
 
 #### App link: https://educare-sieg.netlify.app
 
-#### Project Screenshots: https://drive.google.com/drive/folders/1hQInut9u7ZH_otVQOqIywPbokv1TF2zk?usp=sharing
-
 #### Project PPT and Video demo : https://drive.google.com/folderview?id=13pMJx_SulWNj9YdDwp6Ox9GtTW1gtERH
