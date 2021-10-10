@@ -10,7 +10,7 @@ Just learning the courses wont be of much help if nothing is built out of that k
 Learning by asking doubts, solving errors and building together has proven to be effective.
 The learners face an issue of not being able to have a guided path to be followed in a systematic and organised way so that they learn the most out of the course curriculum.
 Learners also face and issue of “What to do next?” after completing their courses or learning something new.
-Its also said that learning from others mistakes is one of the best ways to learn so that you don’t make the same mistakes. So is there a way that could be achieved?
+Its also said that learning from others mistakes is one of the best ways to learn so that you don’t make the same mistakes. So is there a way that could be achieved? To solve this issue we came up with the idea of EDUCARE, a one stop guide to start your learning journey!
 
 ## OBJECTIVE
 
