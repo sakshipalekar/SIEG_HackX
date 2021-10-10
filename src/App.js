@@ -16,7 +16,7 @@ function App() {
   return (
     <Router>
       <GlobalStyle />
-      <ScrollToTop />
+      <ScrollToTop  />
       <Navbar />
       <Switch>
         <Route path="/" exact ><Home/> </Route>
