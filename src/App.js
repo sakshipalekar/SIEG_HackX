@@ -15,7 +15,7 @@ import { Navbar, Footer } from "./components";
 function App() {
   return (
     <Router>
-      <GlobalStyle />
+      <GlobalStyle  />
       <ScrollToTop  />
       <Navbar />
       <Switch>
